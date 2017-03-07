@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>reveal.js</title>
+		<title>sciebo@Learnweb – Abschlusspräsentation</title>
 
 		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="css/theme/wwu.css">
@@ -24,8 +24,20 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section data-markdown="slides/01-index.md"></section>
-				<section data-markdown="slides/02-motivation.md"></section>
+				<section data-markdown="slides/01-index.md" data-separator-vertical="^\n\n"></section>
+				<section data-markdown="slides/02-motivation.md" data-separator-vertical="^\n\n"></section>
+				<section data-markdown="slides/03-projektstart.md" data-separator-vertical="^\n\n"></section>
+				<section>
+					<section data-markdown="slides/04-user_stories.md" data-separator-vertical="^\n\n"></section>
+					<section data-markdown="slides/04.1-oauth.md" data-separator-vertical="^\n\n"></section>
+					<section data-markdown="slides/04.2-datei_hochladen.md" data-separator-vertical="^\n\n"></section>
+					<section data-markdown="slides/04.3-datei_verlinken.md" data-separator-vertical="^\n\n"></section>
+					<section data-markdown="slides/04.4-ordner.md" data-separator-vertical="^\n\n"></section>
+				</section>
+				<section data-markdown="slides/05-was_bleibt.md" data-separator-vertical="^\n\n"></section>
+				<section data-markdown="slides/06-organisation.md" data-separator-vertical="^\n\n"></section>
+				<section data-markdown="slides/07-ausblick.md" data-separator-vertical="^\n\n"></section>
+				<section data-markdown="slides/08-fragen.md" data-separator-vertical="^\n\n"></section>
 			</div>
 		</div>
 
@@ -48,6 +60,15 @@
 					{ src: 'plugin/notes/notes.js', async: true },
 					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
 				]
+			});
+
+			Reveal.configure({
+				keyboard: {
+					39: 'next', // go to the next slide when the right arrow key is pressed
+					40: 'next', // go to the next slide when the down arrow key is pressed
+					37: 'prev', // go to the previous slide when the left arrow key is pressed
+					38: 'prev'  // go to the previous slide when the up arrow key is pressed
+			  }
 			});
 		</script>
 	</body>
