@@ -15,10 +15,10 @@
 * Als Studierender möchte ich Dateien aus dem Learnweb **direkt** in meiner sciebo Instanz **speichern** können.
 
 * Als Studierender möchte ich anderen **Studierenden Schreib- und Lese-Rechte** geben um kollaborativ zu arbeiten.
-   
----   
 
-## Mögliche Anwendungsszenarien1
+---
+
+## Mögliche Anwendungsszenarien
 
 * Als Lehrender möchte ich Nutzern auf Modul-Basis das **Recht entziehen** eine Datei zu verlinken.
 
@@ -28,7 +28,7 @@
 
 ---
 
-## Mögliche Anwendungsszenarien3
+## Mögliche Anwendungsszenarien
 
 * Als Studierender möchte ich **Lehrenden Schreib- oder Lese-Rechte** auf mein Dokument geben können um Feedback zu erhalten.
 
