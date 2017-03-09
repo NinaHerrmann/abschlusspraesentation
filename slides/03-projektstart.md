@@ -8,3 +8,9 @@
 		<li>Seminarpräsentationen → Entscheidungen</li>
 	</ol>
 </div>
+
+
+#### Allgemeiner OAuth 2.0 Protokollablauf
+<div>
+	<img alt="wwu-logo" src="images/oauth-allgemein.svg">
+</div>
