@@ -1,6 +1,6 @@
 # Ausblick
 
-* Weitere mögliche Anwendungsszenarien
+* Weitere mögliche Anwendungsszenarien überlegt
 
 * **Grundlage** ist gegeben durch OAuth 2.0 Implementierung und Plugins
 
