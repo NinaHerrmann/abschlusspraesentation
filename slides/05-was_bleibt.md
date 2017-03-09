@@ -1,14 +1,19 @@
 # Was bleibt?
 
+## Unsere Tools
 <div class="todo">
 	<p><b>TODO:</b> Grafik der Tooks einfügen</p>
 </div>
 
 ---
 
-## GitHub, Slack & Travis
-* Fast **750 Commits** 
+## Daten
+* **8 Scrumsprints**
 
-* **3600 Nachrichten** bei Slack
+* Über **130 Karten** bei Youtrack 
+
+* Fast **750 Commits** bei GitHub
+
+* Um die **3600 Nachrichten** bei Slack
 
 * Über **600 Travisbuilds**
