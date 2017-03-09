@@ -1,8 +1,11 @@
 # Was bleibt?
 
+---
+
 ## Unsere Tools
-<div class="todo">
-	<p><b>TODO:</b> Grafik der Tooks einfügen</p>
+
+<div>
+	<img alt="FilePicker" align="center" max-width="80%" src="images/tools.png">
 </div>
 
 ---
