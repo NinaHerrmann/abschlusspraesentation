@@ -10,7 +10,7 @@
 </div>
 
 
-#### Allgemeiner OAuth 2.0 Protokollablauf
-<div>
-	<img alt="wwu-logo" src="images/oauth-allgemein.svg">
+# Allgemeiner OAuth 2.0 Protokollablauf
+<div align="center">
+	<img alt="OAuth Allgemein" src="images/oauth-allgemein.svg" width=85%>
 </div>
