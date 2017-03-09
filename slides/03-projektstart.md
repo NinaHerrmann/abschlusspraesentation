@@ -11,4 +11,4 @@
 # Vorgehensweise
 
 <font size="14">Zunächst die Überlegung mit Open Cloud Mesh zu arbeiten</font>
-	- Serverunabhängige sync & share Architektur (Synchronisation von ownCloud und Datenmanager der moodle-Instanz)
+	*Serverunabhängige sync & share Architektur (Synchronisation von ownCloud und Datenmanager der moodle-Instanz)
