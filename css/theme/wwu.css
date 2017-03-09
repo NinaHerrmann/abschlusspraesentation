@@ -300,3 +300,6 @@ body {
 
 .light {
   color: #8b8b8b; }
+
+html.dim-background .slide-background {
+  opacity: 0.4 !important; }
