@@ -129,12 +129,12 @@ body {
 .reveal blockquote {
   display: block;
   position: relative;
-  width: 70%;
+  width: 80%;
   margin: 20px auto;
   padding: 5px;
-  font-style: italic;
-  background: rgba(255, 255, 255, 0.05);
-  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2); }
+  background: #f9f9f9;
+  border-top: 10px solid #ccc;
+  border-bottom: 10px solid #ccc; }
 
 .reveal blockquote p:first-child,
 .reveal blockquote p:last-child {
@@ -149,20 +149,33 @@ body {
   width: 90%;
   margin: 20px auto;
   text-align: left;
-  font-size: 0.55em;
-  font-family: monospace;
-  line-height: 1.2em;
-  word-wrap: break-word;
-  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3); }
+  font-size: 85%;
+  font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  word-wrap: break-word; }
 
 .reveal code {
-  font-family: monospace; }
+  font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  padding: 0;
+  padding-top: 0.1em;
+  padding-bottom: 0.1em;
+  margin: 0;
+  font-size: 80%;
+  background-color: rgba(0, 0, 0, 0.04);
+  border-radius: 3px; }
+
+.reveal code::before,
+.reveal code::after {
+  letter-spacing: -0.2em;
+  content: "\00a0"; }
+
+.reveal pre code::before,
+.reveal pre code::after {
+  content: normal; }
 
 .reveal pre code {
   display: block;
-  padding: 5px;
+  padding: 10px;
   overflow: auto;
-  max-height: 400px;
   word-wrap: normal; }
 
 .reveal table {
@@ -229,8 +242,7 @@ body {
  * IMAGES
  *********************************************/
 .reveal section img {
-  margin: 15px 0px;
-  background: rgba(255, 255, 255, 0.12); }
+  margin: 15px 0px; }
 
 .reveal section img.plain {
   border: 0;
@@ -292,8 +304,14 @@ body {
 .sciebo {
   color: #2e8e43; }
 
+.owncloud {
+  color: #20334d; }
+
 .learnweb {
   color: #01728f; }
+
+.moodle {
+  color: #fa8c10; }
 
 .todo {
   color: red; }
@@ -303,3 +321,21 @@ body {
 
 html.dim-background .slide-background {
   opacity: 0.4 !important; }
+
+html.dim-background-light .slide-background {
+  opacity: 0.6 !important; }
+
+.reveal .caption {
+  position: fixed;
+  display: block;
+  right: 0px;
+  bottom: 0px;
+  z-index: 31;
+  font-size: 15px;
+  line-height: 1;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 5px; }
+
+.reveal .caption {
+  margin: 0 3px; }

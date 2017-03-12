@@ -53,8 +53,16 @@ section.has-dark-background {
 	color: #2e8e43;
 }
 
+.owncloud {
+	color: #20334d;
+}
+
 .learnweb {
 	color: #01728f;
+}
+
+.moodle {
+	color: #fa8c10;
 }
 
 .todo {
@@ -66,5 +74,26 @@ section.has-dark-background {
 }
 
 html.dim-background .slide-background {
-    opacity: 0.4 !important;
+	opacity: 0.4 !important;
+}
+
+html.dim-background-light .slide-background {
+	opacity: 0.6 !important;
+}
+
+.reveal .caption {
+  position: fixed;
+  display: block;
+  right: 0px;
+  bottom: 0px;
+	z-index: 31;
+  font-size: 15px;
+  line-height: 1;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 5px;
+}
+
+.reveal .caption {
+  margin: 0 3px;
 }
