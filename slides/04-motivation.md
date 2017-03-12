@@ -4,8 +4,8 @@
 
 ---
 
-# Bisheriges Zusammenspiel der beiden Systeme
+# Bisheriges Zusammenspiel
 
-<div class="todo">Todo: Grafik für die bisherige Kommunikation zwischen sciebo und Learnweb einfuegen</div>
+<img src="images/situation.svg">
 
-* Grundlegende Idee: Integration der Systeme <font color="red">ohne</font> Passwort-Austausch
+* Grundlegende Idee: Integration der Systeme **ohne** Passwort-Austausch

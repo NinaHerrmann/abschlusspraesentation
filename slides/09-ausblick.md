@@ -10,7 +10,6 @@
   <ul>
     <li>OAuth 2.0 App bereits in <b>ownCloud <br> GitHub-Organisation</b> übertragen</li>
     <li>Core Anpassungen wurden akzeptiert</li>
-		<li>Daher: Wartung nun durch <b>ownCloud</b></li>
 		<li>Mögliches <b>Backporting</b> auf ownCloud 9.1</li>
   </ul>
 </div>
@@ -20,7 +19,6 @@
   <ul>
     <li>moodle-Plugins wurden zusammengefügt im <br> <b>moodle-tool-oauth2-sciebo</b></li>
 		<li>Wartung durch <b>Team Learnweb</b> der WWU</li>
-	<li>Mögliche Veröffentlichung im <b>moodleplugins-Portal</b></li>
   </ul>
 </div>
 

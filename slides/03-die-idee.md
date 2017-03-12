@@ -11,7 +11,7 @@
   	<li>Zentrales E-Learning-Angebot der WWU</li>
   	<li>Unterstützung der Lehre und des Studiums <br> durch interaktive Inhalte</li>
   	<li>> 18.000 Nutzer / Woche (WS 15/16)</li>
-  	<li>Basiert auf Open-Source-Lösung <span class="moodle">Moodle</span></li>
+  	<li>Basiert auf Open-Source-Lösung Moodle</li>
   </ul>
 
   <div style="text-align: center;">
@@ -26,7 +26,7 @@
   	<li>Projekt Sync & Share NRW, geführt durch das ZIV</li>
   	<li>13 FHs, 9 Unis und 1 Forschungsinstitut beteiligt</li>
   	<li>5 PB Speichervolumen</li>
-  	<li>Basiert auf Open-Source-Lösung <span class="owncloud">ownCloud</span></li>
+  	<li>Basiert auf Open-Source-Lösung ownCloud</li>
   </ul>
   <br>
   <div style="text-align: center;">
