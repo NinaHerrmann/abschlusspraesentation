@@ -9,7 +9,7 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 789.1 288.5" xml:space="preserve">
 	<style type="text/css">
 		.st0{fill:#FD9E0F;}
-		.st1{font-family:'SourceSansPro-Regular';}
+		.st1{}
 		.st2{font-size:16px;}
 		.st3{fill:#FFFFFF;}
 		.st4{font-size:12px;}
