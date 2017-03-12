@@ -19,8 +19,8 @@
   <p class="moodle"><b>Moodle</b></p>
   <ul>
     <li>moodle-Plugins wurden zusammengefügt im <br> <b>moodle-tool-oauth2-sciebo</b></li>
-    <li>Mögliche <b>Aufnahme</b> in den <b>Moodle-Core</b></li>
 		<li>Wartung durch <b>Team Learnweb</b> der WWU</li>
+	<li>Mögliche Veröffentlichung im <b>moodleplugins-Portal</b></li>
   </ul>
 </div>
 
