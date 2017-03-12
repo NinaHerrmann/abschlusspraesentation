@@ -84,7 +84,8 @@
 
 # Projektmanagement
 
-<p class="todo">TODO...</p>
+<img alt="Scrum" src="images/scrum.jpg">
+
 
 ---
 
