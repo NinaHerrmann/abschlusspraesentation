@@ -11,7 +11,7 @@
     <li>OAuth 2.0 App bereits in <b>ownCloud <br> GitHub-Organisation</b> übertragen</li>
     <li>Core Anpassungen wurden akzeptiert</li>
 		<li>Daher: Wartung nun durch <b>ownCloud</b></li>
-		<li>mögliches <b>Backporting</b> auf ownCloud 9.1</li>
+		<li>Mögliches <b>Backporting</b> auf ownCloud 9.1</li>
   </ul>
 </div>
 
