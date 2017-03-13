@@ -6,6 +6,6 @@
 
 # Bisheriges Zusammenspiel
 
-<img src="images/situation.svg">
-
 * Grundlegende Idee: Integration der Systeme **ohne** Passwort-Austausch
+
+<img src="images/situation.svg">
