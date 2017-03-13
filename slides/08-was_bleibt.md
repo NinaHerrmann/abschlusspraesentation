@@ -9,10 +9,10 @@
 <div style="text-align: left; float: center; padding-left:35%;">
   <ul>
     <li><b>8 Scrumsprints</b></li>
-    <li>Über <b>130 Karten</b> bei Youtrack</li>
-    <li>Fast <b>750 Commits</b> bei GitHub</li>
-    <li>Um die <b>3600 Nachrichten</b> bei Slack</li>
-    <li>Über <b>600 Travisbuilds</b></li>
+    <li>Über <b>150 Karten</b> bei Youtrack</li>
+    <li>Über <b>800 Commits</b> bei GitHub</li>
+    <li>Um die <b>4200 Nachrichten</b> bei Slack</li>
+    <li>Über <b>700 Travisbuilds</b></li>
     <p></p>
     <p></p>
   </ul>
