@@ -656,7 +656,11 @@
 # Allgemeiner OAuth 2.0 Protokollablauf
 
 <div align="center">
-	<img alt="OAuth Allgemein" src="images/oauth-allgemein.svg" width=85%>
+	<img alt="OAuth Allgemein" src="images/oauth-allgemein.svg" width=80%>
+</div>
+
+<div align="right">
+	<small>[vgl. RFC 6749, S. 7f]</small>
 </div>
 
 ---
