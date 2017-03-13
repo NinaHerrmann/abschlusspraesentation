@@ -682,7 +682,11 @@
 # Allgemeiner OAuth 2.0 Protokollablauf
 
 <div align="center">
-	<img alt="OAuth Allgemein" src="images/oauth-allgemein.svg" width=85%>
+	<img alt="OAuth Allgemein" src="images/oauth-allgemein.svg" width=80%>
+</div>
+
+<div align="right">
+	<small>[vgl. RFC 6749, S. 7f]</small>
 </div>
 
 ---
@@ -696,8 +700,8 @@
 
 # Unsere Tools
 
-<div>
-	<img alt="Tools" align="center" max-width="80%" height=1000px src="images/tools.png">
+<div align="center">
+	<img alt="Tools" max-width="80%" height=1000px src="images/tools.png">
 </div>
 
 ---
