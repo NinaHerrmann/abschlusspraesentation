@@ -701,7 +701,7 @@
 # Unsere Tools
 
 <div align="center">
-	<img alt="Tools" max-width="80%" height=1000px src="images/tools.png">
+	<img alt="Tools" max-width="80%" height=800px src="images/tools.png">
 </div>
 
 ---
