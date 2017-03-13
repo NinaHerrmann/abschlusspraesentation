@@ -633,23 +633,49 @@
 # Grundlegende Entscheidungen
 
 * Zunächst die Überlegung mit Open Cloud Mesh zu arbeiten
-	* Serverunabhängige sync & share Architektur zwischen clouds
-		* Zu unausgereift und zu viele Bugs übrig, um für dieses Projektseminar relevant zu sein
-* Abwägung der passwortlosen Authentifizierungsmöglichkeiten
-	* JSON Web Tokens, Macaroons, SSO, <font color=red>OAuth 2.0</font>
-		* OAuth 2.0 kombiniert passwortlose Authentifizierung für den Client und
-		steuert diese zusammen mit der Autorisierung über einen Access Token.
-		* Umfang und Dauer der Autorisierung kann eingeschränkt werden
-		* Entzug der Autorisierung pro Client steuerbar
-* Evaluation der vorhandenen moodle Plugins
-	* Dropbox
-		* nutzt OAuth 1.0 als API Absicherung
-		* ownCloud unterstützt OAuth jedoch noch nicht
-		* andere API als ownCloud -> nützlicher Ansatz, aber keine Kompatibilität
-	* WebDAV
-		* Moodle als WebDAV Client für Datenübermittlung
-		* ownCloud verfügt über WebDAV Integration, dessen Funktionalitäten erweitert werden können
-		* kein OAuth 2.0
+	* Serverunabhängige Sync & Share Architektur zwischen Cloudsystemen
+		* sehr interessanter Ansatz für die Zukunft
+		* nicht vollständig ausgereift und Unsicherheit, ob moodle als Cloudservice agieren kann
+	
+* Abwägung der passwortlosen Authentifizierungsmöglichkeiten <!-- .element: class="fragment" data-fragment-index="1" -->
+	* JSON Web Tokens, Macaroons, SSO<!-- .element: class="fragment" data-fragment-index="1" -->, **OAuth 2.0** <!-- .element: class="fragment" data-fragment-index="1" -->
+		* OAuth 2.0 kombiniert passwortlose Authentifizierung für den Client und steuert diese zusammen mit der Autorisierung über einen Access Token <!-- .element: class="fragment" data-fragment-index="2" -->
+		* Umfang und Dauer der Autorisierung kann eingeschränkt werden <!-- .element: class="fragment" data-fragment-index="2" -->
+		* Entzug der Autorisierung pro Client steuerbar <!-- .element: class="fragment" data-fragment-index="2" -->
+
+---
+
+# Grundlegende Entscheidungen
+
+## Evaluation der vorhandenen moodle Plugins
+
+<div style="text-align: left; float: left; padding-left:5%;">
+<ul>
+	<img alt="dropbox" src="images/dropbox.png" height=107px>
+	<ul>
+		<li>nutzt OAuth 1.0 als API Absicherung</li>
+		<li>ownCloud unterstützt OAuth noch nicht</li>
+		<li>andere API als ownCloud</li>
+		<ul>
+			<li>keine Kompatibilität</li>
+		</ul>
+	</ul>
+</ul>
+</div>
+
+<div style="text-align: left; float: right;">
+<ul>
+	<img alt="webdav" src="images/webdav.png" height=107px>
+	<ul>
+		<li>Moodle als WebDAV Client für Datenübermittlung</li>
+		<li>ownCloud verfügt über WebDAV Integration,<br> dessen Funktionalitäten erweitert werden können</li>
+		<li>kein OAuth 2.0</li>
+		<ul>
+			<li>WebDAV-Schnittstelle um OAuth2.0 erweitern</li>
+		</ul>
+	</ul>
+</ul>
+</div>
 
 ---
 
@@ -671,7 +697,7 @@
 # Unsere Tools
 
 <div>
-	<img alt="FilePicker" align="center" max-width="80%" src="images/tools.png">
+	<img alt="Tools" align="center" max-width="80%" src="images/tools.png">
 </div>
 
 ---
