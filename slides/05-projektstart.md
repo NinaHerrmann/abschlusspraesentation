@@ -64,7 +64,7 @@
 		* Entzug der Autorisierung pro Client steuerbar
 * Evaluation der vorhandenen moodle Plugins
 	* Dropbox
-		* nutzt OAuth 2.0 als API Absicherung
+		* nutzt OAuth 1.0 als API Absicherung
 		* ownCloud unterstützt OAuth jedoch noch nicht
 		* andere API als ownCloud -> nützlicher Ansatz, aber keine Kompatibilität
 	* WebDAV
@@ -93,12 +93,6 @@
 <div>
 	<img alt="FilePicker" align="center" max-width="80%" src="images/tools.png">
 </div>
-
----
-
-# Moodle Plugin Architektur
-
-<p class="todo">Todo: Bild der Pluginarchitektur einfuegen <br> Ich würde das nicht hier zeigen.</p>
 
 ---
 
