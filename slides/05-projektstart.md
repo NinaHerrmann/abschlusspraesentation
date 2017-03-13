@@ -673,8 +673,8 @@
 
 # Unsere Tools
 
-<div>
-	<img alt="FilePicker" align="center" max-width="80%" src="images/tools.png">
+<div align="center">
+	<img alt="Tools" width="60%" src="images/tools.png">
 </div>
 
 ---
