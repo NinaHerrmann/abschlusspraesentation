@@ -635,7 +635,7 @@
 * Zunächst die Überlegung mit Open Cloud Mesh zu arbeiten
 	* Serverunabhängige Sync & Share Architektur zwischen Cloudsystemen
 		* sehr interessanter Ansatz für die Zukunft
-		* nicht vollständig ausgereift und Unsicherheit, ob moodle als Cloudservice agieren kann
+		* nicht vollständig ausgereift und Unsicherheit, ob Moodle als Cloudservice agieren kann
 
 * Abwägung der passwortlosen Authentifizierungsmöglichkeiten <!-- .element: class="fragment" data-fragment-index="1" -->
 	* JSON Web Tokens, Macaroons, SSO<!-- .element: class="fragment" data-fragment-index="1" -->, **OAuth 2.0** <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -647,7 +647,7 @@
 
 # Grundlegende Entscheidungen
 
-## Evaluation der vorhandenen moodle Plugins
+## Evaluation der vorhandenen Moodle Plugins
 
 <div style="text-align: left; float: left; padding-left:5%;">
 <ul>
