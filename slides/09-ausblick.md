@@ -15,7 +15,7 @@
 </div>
 
 <div style="text-align: left; float: right;">
-  <p class="moodle"><b>Moodle</b></p>
+  <p class="Moodle"><b>Moodle</b></p>
   <ul>
     <li>Moodle-Plugins wurden zusammengefügt im <br> <b>Moodle-tool-oauth2-sciebo</b></li>
 		<li>Wartung durch <b>Team Learnweb</b> der WWU</li>
