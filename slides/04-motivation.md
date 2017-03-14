@@ -6,6 +6,6 @@
 
 # Bisheriges Zusammenspiel
 
-* Grundlegende Idee: Integration der Systeme **ohne** Passwort-Austausch
-
 <img src="images/situation.svg">
+
+* Grundlegende Idee: Integration der Systeme<!-- .element: class="fragment" data-fragment-index="1" --> **ohne** Passwort-Austausch <!-- .element: class="fragment" data-fragment-index="1" -->
