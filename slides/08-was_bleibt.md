@@ -20,5 +20,5 @@
 
 <div style="text-align: center;">
     <p></p>
-    &#8658; <b>Dokumentation</b> zu ownCloud und moodle Implementierungen <br> abrufbar über [pssl16.github.io](https://www.pssl16.github.io) 
+    &#8658; <b>Dokumentation</b> zu ownCloud und Moodle Implementierungen <br> abrufbar über [pssl16.github.io](https://www.pssl16.github.io) 
 </div>

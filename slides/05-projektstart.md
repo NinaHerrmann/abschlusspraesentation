@@ -635,8 +635,8 @@
 * Zunächst die Überlegung mit Open Cloud Mesh zu arbeiten
 	* Serverunabhängige Sync & Share Architektur zwischen Cloudsystemen
 		* sehr interessanter Ansatz für die Zukunft
-		* nicht vollständig ausgereift und Unsicherheit, ob moodle als Cloudservice agieren kann
-	
+		* nicht vollständig ausgereift und Unsicherheit, ob Moodle als Cloudservice agieren kann
+
 * Abwägung der passwortlosen Authentifizierungsmöglichkeiten <!-- .element: class="fragment" data-fragment-index="1" -->
 	* JSON Web Tokens, Macaroons, SSO<!-- .element: class="fragment" data-fragment-index="1" -->, **OAuth 2.0** <!-- .element: class="fragment" data-fragment-index="1" -->
 		* OAuth 2.0 kombiniert passwortlose Authentifizierung für den Client und steuert diese zusammen mit der Autorisierung über einen Access Token <!-- .element: class="fragment" data-fragment-index="2" -->
@@ -647,11 +647,11 @@
 
 # Grundlegende Entscheidungen
 
-## Evaluation der vorhandenen moodle Plugins
+## Evaluation der vorhandenen Moodle Plugins
 
 <div style="text-align: left; float: left; padding-left:5%;">
 <ul>
-	<img alt="dropbox" src="images/dropbox.png" height=107px>
+	<img alt="dropbox" data-src="images/dropbox.png" height=107px>
 	<ul>
 		<li>nutzt OAuth 1.0 als API Absicherung</li>
 		<li>ownCloud unterstützt OAuth noch nicht</li>
@@ -665,7 +665,7 @@
 
 <div style="text-align: left; float: right;">
 <ul>
-	<img alt="webdav" src="images/webdav.png" height=107px>
+	<img alt="webdav" data-src="images/webdav.png" height=107px>
 	<ul>
 		<li>Moodle als WebDAV Client für Datenübermittlung</li>
 		<li>ownCloud verfügt über WebDAV Integration,<br> dessen Funktionalitäten erweitert werden können</li>
@@ -682,7 +682,7 @@
 # Allgemeiner OAuth 2.0 Protokollablauf
 
 <div align="center">
-	<img alt="OAuth Allgemein" src="images/oauth-allgemein.svg" width=80%>
+	<img alt="OAuth Allgemein" data-src="images/oauth-allgemein.svg" width=80%>
 </div>
 
 <div align="right">
@@ -693,7 +693,7 @@
 
 # Projektmanagement
 
-<img alt="Scrum" src="images/scrum.jpg">
+<img alt="Scrum" data-src="images/scrum.jpg">
 
 
 ---
@@ -701,7 +701,7 @@
 # Unsere Tools
 
 <div align="center">
-	<img alt="Tools" max-width="80%" height=800px src="images/tools.png">
+	<img alt="Tools" width="60%" data-src="images/tools.png">
 </div>
 
 ---

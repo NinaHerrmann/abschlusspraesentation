@@ -15,7 +15,7 @@
   </ul>
 
   <div style="text-align: center;">
-    <img alt="sciebo" src="images/learnweb.svg" height=200px>
+    <img alt="sciebo" data-src="images/learnweb.svg" height=200px>
   </div>
 </div>
 
@@ -30,6 +30,6 @@
   </ul>
   <br>
   <div style="text-align: center;">
-    <img alt="sciebo" src="images/sciebo.svg" height=200px>
+    <img alt="sciebo" data-src="images/sciebo.svg" height=200px>
   </div>
 </div>

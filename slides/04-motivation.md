@@ -6,6 +6,6 @@
 
 # Bisheriges Zusammenspiel
 
-<img src="images/situation.svg">
+<img data-src="images/situation.svg">
 
 * Grundlegende Idee: Integration der Systeme<!-- .element: class="fragment" data-fragment-index="1" --> **ohne** Passwort-Austausch <!-- .element: class="fragment" data-fragment-index="1" -->
