@@ -683,7 +683,7 @@
 		<li>ownCloud verfügt über WebDAV Integration,<br> dessen Funktionalitäten erweitert werden können</li>
 		<li>kein OAuth 2.0</li>
 		<ul>
-			<li>WebDAV-Schnittstelle um OAuth2.0 erweitern</li>
+			<li>WebDAV-Schnittstelle um OAuth 2.0 erweitern</li>
 		</ul>
 	</ul>
 </ul>
