@@ -17,7 +17,7 @@
 <div style="text-align: left; float: right;">
   <p class="Moodle"><b>Moodle</b></p>
   <ul>
-    <li>Moodle-Plugins wurden zusammengefügt im <br> <b>Moodle-tool-oauth2-sciebo</b></li>
+    <li>Moodle-Plugins wurden zusammengefügt im <br> <b>Moodle-tool-oauth2-owncloud</b></li>
 		<li>Wartung durch <b>Team Learnweb</b> der WWU</li>
   </ul>
 </div>
@@ -28,15 +28,15 @@
 
 * Als Lehrender möchte ich auf einen Button klicken, um <br> hochgeladene **Dateien zu aktualisieren**.
 
-* Als Studierender möchte ich Dateien aus dem Learnweb <br> **direkt** in meiner sciebo Instanz **speichern** können.
+* Als Studierender möchte ich Dateien aus Moodle <br> **direkt** in meiner ownCloud Instanz **speichern** können.
 
 ---
 
 # Mögliche Erweiterungen
 
-* Als Nutzer möchte ich in der Dateiauswahl im Learnweb <br> einen **Ordner** aus meiner sciebo Instanz **hochladen**.
+* Als Nutzer möchte ich in der Dateiauswahl in Moodle <br> einen **Ordner** aus meiner ownCloud Instanz **hochladen**.
 
-* Als Studierender möchte ich anderen **Studierenden Schreib- <br> und Lese-Rechte** geben um kollaborativ zu arbeiten.
+* Als Studierender möchte ich anderen **Studierenden Schreib- <br> und Lese-Rechte** geben, um kollaborativ zu arbeiten.
 
 ---
 
