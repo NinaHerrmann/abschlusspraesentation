@@ -634,8 +634,8 @@
 
 * Zunächst die Überlegung mit Open Cloud Mesh zu arbeiten
 	* Serverunabhängige Sync & Share Architektur zwischen Cloudsystemen
-		* sehr interessanter Ansatz für die Zukunft
-		* nicht vollständig ausgereift und Unsicherheit, ob Moodle als Cloudservice agieren kann
+		* Sehr interessanter Ansatz für die Zukunft
+		* Nicht vollständig ausgereift und Unsicherheit, ob Moodle als Cloudservice agieren kann
 
 * Abwägung der passwortlosen Authentifizierungsmöglichkeiten <!-- .element: class="fragment" data-fragment-index="1" -->
 	* JSON Web Tokens, Macaroons, SSO<!-- .element: class="fragment" data-fragment-index="1" -->, **OAuth 2.0** <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -665,11 +665,11 @@
 <ul>
 	<img alt="dropbox" data-src="images/dropbox.png" height=107px>
 	<ul>
-		<li>nutzt OAuth 1.0 als API Absicherung</li>
+		<li>Nutzt OAuth 1.0 als API Absicherung</li>
 		<li>ownCloud unterstützt OAuth noch nicht</li>
-		<li>andere API als ownCloud</li>
+		<li>Andere API als ownCloud</li>
 		<ul>
-			<li>keine Kompatibilität</li>
+			<li>Keine Kompatibilität</li>
 		</ul>
 	</ul>
 </ul>
@@ -681,7 +681,7 @@
 	<ul>
 		<li>Moodle als WebDAV Client für Datenübermittlung</li>
 		<li>ownCloud verfügt über WebDAV Integration,<br> dessen Funktionalitäten erweitert werden können</li>
-		<li>kein OAuth 2.0</li>
+		<li>Kein OAuth 2.0</li>
 		<ul>
 			<li>WebDAV-Schnittstelle um OAuth 2.0 erweitern</li>
 		</ul>
